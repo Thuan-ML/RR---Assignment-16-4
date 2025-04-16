@@ -17,7 +17,7 @@ By the final season, viewership had decreased by over 3 million viewers per epis
 ## Changes in Viewership
 The viewership shows a significant decline over time. Between Seasons 1 and 2, the viewership dropped from 4.64 million in Episode 1 to 3.47 million in Season 2, Episode 1 (a decrease of 1.17 million viewers). Later, between Season 5 and Season 6, the viewership dropped again from 2.16 million in Episode 16 of Season 5 to 1.85 million in Episode 1 of Season 6.
 
-![Episode-to-Episode Changes](Episode-to-Episode Changes.png)
+![Episode-to-Episode Changes](Episode_to_Episode_Changes.png)
 
 ## Conclusion
 Over the course of 9 seasons, *Suits* saw a steady decline in viewership, likely due to the show's age and the changing interests of its audience.
